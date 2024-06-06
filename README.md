@@ -91,7 +91,4 @@ The results of this project include:
 ![Categorization (1)](https://github.com/Sultan-Mm/Big-Data-Engineering/assets/109808952/fde9cbcb-8c13-4a41-9d1a-f02588590173)
 
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
 
